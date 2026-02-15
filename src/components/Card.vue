@@ -1,5 +1,6 @@
 <template>
     <main class="card">
+      <slot />
     </main>
     </template>
 
